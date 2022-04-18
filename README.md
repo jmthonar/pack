@@ -11,3 +11,4 @@ this userbot is import of catuserbot and translate to arabic
 
 https://t.me/catuserbot_support
 https://t.me/jmthon
+https://t.me/SDF_70F
